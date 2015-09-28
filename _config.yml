@@ -1,12 +1,7 @@
 # Site settings
-title: 你懂得
-<<<<<<< HEAD
-email: 23yt@163.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-=======
+title: 我的杂货铺
 email: john.yitian@gmail.com
 description: "这里的内容也许可以记录一些你感兴趣的东西."
->>>>>>> 529992e51788649fd162e81b47ebce7e00697790
 baseurl: "/gitblog"
 url: "https://github.com/lyt23/"
 

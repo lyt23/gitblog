@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "ReactJS 是一个糟糕的主意"
-date:   2015-10-22 16:59:26
+title:  "ReactJS 是一个糟糕的主意（翻译自Dan Yoder）"
+date:   2015-10-24 16:59:26
 categories: 前端框架
 ---
 
